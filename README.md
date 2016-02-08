@@ -1,5 +1,5 @@
 # Identity
-Running the pprogram
+Running the application
 ---------------------
 Save Identity.jar in a directory of your choice.
 
