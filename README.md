@@ -36,7 +36,9 @@ Assumptions
 
 5) Package names are consistent, ie. the name used in the dependency list for a parent package is the same as the name used in the dependant package Identity file. The future intention is to be able to generate a dependency tree for each package.
 
-6) Package names are unique.  
+6) Package names are unique. 
+
+7) Licenses are all named licenses, in practice this is not true, we have unique licences.
 
 Limitations
 -----------
