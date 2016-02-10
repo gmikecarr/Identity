@@ -1,7 +1,9 @@
 # Identity
 Running the application
 ---------------------
-Save Identity.jar in a directory of your choice.
+For test data clone https://github.com/gmikecarr/FFmpeg into an empty directory.
+
+From this repository, download Identity.jar into a directory of your choice.
 
 In a terminal window type;
         java -jar Identity.jar <Full path of working copy to be scanned>
