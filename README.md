@@ -48,7 +48,7 @@ Limitations
 
 3) Exception handling is limited, in particular the immediate termination on failing to parse an Identity.yml file needs addressing. No account is taken of file access permissions.
 
-4) The order of processing files is not guarenteed, parent/child relationships are not imposed by directory structure.
+4) The order of processing files is not guaranteed, parent/child relationships are not imposed by directory structure.
 
 
 
